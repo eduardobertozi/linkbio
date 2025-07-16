@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				linkbio: {
+					bg: 'hsl(var(--linkbio-bg))',
+					card: 'hsl(var(--linkbio-card))',
+					sidebar: 'hsl(var(--linkbio-sidebar))',
+					green: 'hsl(var(--linkbio-green))',
+					'green-hover': 'hsl(var(--linkbio-green-hover))',
+					text: 'hsl(var(--linkbio-text))',
+					'text-muted': 'hsl(var(--linkbio-text-muted))'
 				}
 			},
 			borderRadius: {
